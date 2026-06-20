@@ -33,6 +33,22 @@ The system detects transaction mismatches, missing records, and duplicate entrie
 
 ---
 
+## Dashboard Preview
+
+<img width="1783" height="795" alt="Screenshot 2026-06-20 180959" src="https://github.com/user-attachments/assets/02ae0ae0-1a7e-4be5-8676-041973bdb656" />
+
+<img width="1780" height="746" alt="Screenshot 2026-06-20 181010" src="https://github.com/user-attachments/assets/4656d38b-1d4d-436b-9f0e-7367267a73c0" />
+
+<img width="1805" height="777" alt="Screenshot 2026-06-20 181021" src="https://github.com/user-attachments/assets/5eced832-ce76-421d-951b-745b7a566665" />
+
+<img width="1806" height="771" alt="Screenshot 2026-06-20 181030" src="https://github.com/user-attachments/assets/36c520bc-57ea-4b83-8937-9953ee6be969" />
+
+<img width="882" height="512" alt="Screenshot 2026-06-20 181632" src="https://github.com/user-attachments/assets/864c5f1d-724d-4ab1-9fb0-52bb87913c0b" />
+
+<img width="928" height="473" alt="Screenshot 2026-06-20 181646" src="https://github.com/user-attachments/assets/eff4141d-b595-43db-a1f5-75aa69e37052" />
+
+---
+
 ## Project Workflow
 
 1. Generate Bank Statement dataset
@@ -97,43 +113,6 @@ The system categorizes transactions into the following groups:
 
 ---
 
-## How to Run
-
-### Clone Repository
-
-```bash
-git clone <repository-url>
-cd Bank_Ledger_Reconciliation_Automation_Tool
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Generate Sample Data
-
-```bash
-python scripts/generate_data.py
-python scripts/create_ledger.py
-```
-
-### Run Reconciliation
-
-```bash
-python scripts/reconcile.py
-python scripts/save_results.py
-python scripts/store_to_db.py
-```
-
-### Launch Dashboard
-
-```bash
-streamlit run app.py
-```
-
----
 
 ## Sample Output
 
