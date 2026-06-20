@@ -43,9 +43,6 @@ The system detects transaction mismatches, missing records, and duplicate entrie
 
 <img width="1806" height="771" alt="Screenshot 2026-06-20 181030" src="https://github.com/user-attachments/assets/36c520bc-57ea-4b83-8937-9953ee6be969" />
 
-<img width="882" height="512" alt="Screenshot 2026-06-20 181632" src="https://github.com/user-attachments/assets/864c5f1d-724d-4ab1-9fb0-52bb87913c0b" />
-
-<img width="928" height="473" alt="Screenshot 2026-06-20 181646" src="https://github.com/user-attachments/assets/eff4141d-b595-43db-a1f5-75aa69e37052" />
 
 ---
 
